@@ -1,5 +1,5 @@
-# ACADEMIX
- Academix is a JavaFX-based Student  Management System that allows teachers, students, and parents to access and manage academic performance data. The system features secure login, role-based dashboards, grade tracking, feedback, and progress visualizations using interactive charts. Built with Java, JavaFX, and MySQL.
+# ICLOUD V3
+ ICLOUD V3 is a JavaFX-based Student  Management System that allows teachers, students, and parents to access and manage academic performance data. The system features secure login, role-based dashboards, grade tracking, feedback, and progress visualizations using interactive charts. Built with Java, JavaFX, and MySQL.
 
 
 ## 📌 Features
@@ -143,27 +143,8 @@ CREATE TABLE grades (
 PREVIEW.....
 LOGIN PAGE....
 
-![image](https://github.com/user-attachments/assets/60f006b0-0a3e-4632-ae62-50d1837d3afb)
 
 
-
-
-
-
-
-DASHBOARD.....
-
-TEACHER DASHBOARD.....
-![image](https://github.com/user-attachments/assets/01567ad7-de4c-4792-a606-e984509f6062)
-
-
-
-
-
-
-
-STUDENT DASHBOARD......
-![image](https://github.com/user-attachments/assets/55b8c770-222d-4bba-a829-5519c3b49985)
 
 
 
